@@ -12,13 +12,13 @@
     "build": "expo export --platform web"
   },
   "engines": {
-    "node": "20.19.4"
+    "node": "20.x"
   },
-  
   "dependencies": {
     "axios": "^1.16.0",
     "expo": "^55.0.23",
-    "expo-router": "~6.0.13",
+    "expo-constants": "~55.0.16",
+    "expo-router": "~55.0.14",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-native": "0.81.4",
