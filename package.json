@@ -8,6 +8,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
+    "postinstall": "chmod +x node_modules/.bin/expo",
     "build": "expo export --platform web"
   },
   "engines": {
