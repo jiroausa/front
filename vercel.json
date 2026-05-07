@@ -1,5 +1,4 @@
 {
-  "rootDirectory": "greek-chatbot",
   "builds": [
     {
       "src": "package.json",
@@ -8,5 +7,6 @@
         "distDir": "dist"
       }
     }
-  ]
+  ],
+  "rootDirectory": "greek-chatbot"
 }
